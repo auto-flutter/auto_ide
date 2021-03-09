@@ -1,6 +1,6 @@
 # Auto Ide
 
-An Ide capable of recording and playing back Auto files
+An Ide capable of recording and playing back `Auto` files
 
 ## Installation
 
