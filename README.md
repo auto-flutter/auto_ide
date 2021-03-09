@@ -17,7 +17,7 @@ You may need to configure the execution path of `auto_util`
 $ which auto_util
 /usr/local/bin/auto_util
 ```
-- Goto **Setting** -> **Custom `auto_util` Path**
+- Goto **Settings** -> **Custom `auto_util` Path**
 
 
 ## Demo Video
