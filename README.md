@@ -1,6 +1,8 @@
 # Auto Ide
 
 An Ide capable of recording and playing back `Auto` files
+<img width="1351" alt="screen" src="https://user-images.githubusercontent.com/28224568/110473308-5a0e8a80-8119-11eb-8d49-d00a9dbefa1b.png">
+
 
 ## Installation
 
