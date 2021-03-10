@@ -22,7 +22,8 @@ $ which auto_util
 - Goto **Settings** -> **Custom `auto_util` Path**
 
 
-## Demo Video
+## Usage
+[Demo Video](https://user-images.githubusercontent.com/28224568/110477128-c12e3e00-811d-11eb-9749-e35f359531f3.mp4)
 
 ## Related Project
 - [Auto](https://github.com/auto-flutter/auto)
