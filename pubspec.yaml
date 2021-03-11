@@ -22,9 +22,9 @@ environment:
   sdk: ">=2.7.0 <3.0.0"
   flutter: ">1.22.0"
 
-dependency_overrides:
-  auto_core:
-    path: ../auto_core
+#dependency_overrides:
+#  auto_core:
+#    path: ../auto_core
 
 dependencies:
   flutter:
