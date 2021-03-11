@@ -1,0 +1,97 @@
+{
+  "toolbarFileManagerTip": "File Manager",
+  "toolbarApplicationManagerTip": "Application Manager",
+  "toolbarSettingsTip": "Settings",
+  "toolbarSystemLogTip": "System Log",
+
+
+  "applicationManagerTitle": "Application Manager",
+  "applicationManagerAddTip": "Add Application",
+  "applicationManagerRefreshAllTip": "Refresh All Application",
+  "applicationManagerAddTab": "Application (Add) ",
+  "applicationManagerAddPageTitle": "Add Application",
+  "applicationManagerEditPageTitle": "Edit Application",
+  "applicationManagerAppName": "App Name",
+  "applicationManagerHost": "Host",
+  "applicationManagerPort": "Port",
+  "applicationManagerCheckConnection": "Check Connection",
+
+  "fileManagerNewAutoFile" : "New Auto File",
+  "fileManagerNewFormFileName" : "File Name",
+  "fileManagerNewAutoFileTip" : "Right-click the folder to create a new auto file",
+
+  "systemLogTab" : "System Log",
+
+  "settingsTab" : "Settings",
+  "settingsTitle" : "Settings",
+  "settingsLanguage" : "Language",
+  "settingsAutoUtil" : "Custom `auto_util` Path",
+
+  "editorTabClose": "Close",
+  "editorTabCloseOther": "Close other",
+  "editorTabCloseAll": "Close all",
+  "editorTabCloseLeft": "Close all to the left ",
+  "editorTabCloseRight": "Close all to the right ",
+
+  "refresh": "Refresh",
+  "delete": "Delete",
+  "ok": "Ok",
+  "save": "Save",
+  "cancel": "Cancel",
+  "select": "Select",
+  "redo": "Redo",
+  "undo": "Undo",
+  "zoomIn": "Zoom In" ,
+  "zoomOut": "Zoom Out",
+  "zoomReset": "Reset",
+  "width": "Width",
+  "height": "Height",
+  "resolution": "Resolution",
+  "open": "OPEN",
+  "viewDetails": "View details",
+
+  "toastRequireNonNull": "{arg} parameter must not be null",
+  "toastRequireNonEmpty": "{arg} parameter must not be empty",
+
+  "appInfoPanelPlatform": "Platform",
+  "appInfoPanelMode": "Mode",
+  "appInfoPanelDeviceName": "Device Name",
+  "appInfoPanelApiVersion": "Api Version",
+
+  "unsupportedPageTitle": "File format is not supported",
+
+  "autoPageStartTip" : "Start",
+  "autoPagePauseTip" : "Pause",
+  "autoPageContinueTip" : "Continue",
+  "autoPageStopSaveTip" : "Stop recording and save",
+  "autoPageStopTip" : "Stop recording",
+  "autoPageReplayTip" : "Replay",
+  "autoPageDisableKeyboardTip" : "Prohibit keyboard pop-up during recording",
+  "autoPageAddCheckpointTip" : "Add checkpoint",
+  "autoPageAddDelayTip" : "Add delay (Right-click to select delay)",
+  "autoPageDependenciesTip" : "Dependencies will be automatically pre-executed",
+  "autoPageCheckpointsTip" : "Check points are some pictures that need to be matched (you need to circle the key places on the picture)",
+  "autoPageSelectApp" : "Select App",
+  "autoPageConfigApp" : "Config App",
+  "autoPageDelayToastTitle" : "Delay: {arg}",
+  "autoPageDependenciesOrderHint" : "You can change the running order of dependencies by dragging",
+  "autoPageDependenciesHint" : "Add dependencies by dragging and dropping auto files",
+  "autoPageDependenciesTitle" : "Dependencies",
+  "autoPageCheckpointsTitle" : "Checkpoints",
+  "autoPageMatchTestPassed" : "Match test passed!",
+  "autoPageMatchTestFailed" : "Match test failed!",
+  "autoPageOpenRemoteInput" : "Open remote input",
+  "autoPageRemoteInputHint" : " <Enter> to send",
+
+
+  "reportPageTab": "Report",
+  "reportPageSuccessTitle": "SUCCESS",
+  "reportPageFailureTitle": "FAILURE",
+  "reportPageLogTitle": "Log",
+  "reportPageCheckpointTitle": "Checkpoint",
+  "reportPageErrorReason": "Reason: {arg}",
+  "reportPageOriginalAppTitle": "Original application information:",
+  "reportPageTestAppTitle": "Test application information:"
+
+
+}

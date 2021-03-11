@@ -1,0 +1,97 @@
+{
+  "toolbarFileManagerTip": "文件管理器",
+  "toolbarApplicationManagerTip": "应用管理器",
+  "toolbarSettingsTip": "设置",
+  "toolbarSystemLogTip": "系统日志",
+
+  "applicationManagerTitle": "应用管理器",
+  "applicationManagerAddTip": "添加应用",
+  "applicationManagerRefreshAllTip": "刷新所有应用",
+  "applicationManagerAddTab": "添加应用",
+  "applicationManagerAddPageTitle": "添加应用",
+  "applicationManagerEditPageTitle": "编辑应用",
+  "applicationManagerAppName": "应用名称",
+  "applicationManagerHost": "主机",
+  "applicationManagerPort": "端口",
+  "applicationManagerCheckConnection": "检查连接",
+
+  "fileManagerNewAutoFile" : "新建Auto文件",
+  "fileManagerNewFormFileName" : "文件名",
+  "fileManagerNewAutoFileTip" : "右键文件夹新建Auto文件",
+
+  "systemLogTab" : "系统日志",
+
+
+  "settingsTab" : "设置",
+  "settingsTitle" : "设置",
+  "settingsLanguage" : "语言",
+  "settingsAutoUtil" : "自定义`auto_util`路径",
+
+
+
+  "editorTabClose": "关闭",
+  "editorTabCloseOther": "关闭其他",
+  "editorTabCloseAll": "关闭所有",
+  "editorTabCloseLeft": "关闭左侧",
+  "editorTabCloseRight": "关闭右侧",
+
+  "refresh": "刷新",
+  "delete": "删除",
+  "ok": "确定",
+  "save": "保存",
+  "cancel": "取消",
+  "select": "选择",
+  "redo": "恢复",
+  "undo": "撤销",
+  "zoomIn": "放大",
+  "zoomOut": "缩小",
+  "zoomReset": "重置",
+  "width": "宽",
+  "height": "高",
+  "resolution": "分辨率",
+  "open": "打开",
+  "viewDetails": "查看详情",
+
+  "toastRequireNonNull": "{arg}参数必须不为null",
+  "toastRequireNonEmpty": "{arg}参数必须不为空",
+
+  "appInfoPanelPlatform": "平台",
+  "appInfoPanelMode": "模式",
+  "appInfoPanelDeviceName": "设备名",
+  "appInfoPanelApiVersion": "Api版本",
+
+  "unsupportedPageTitle": "文件格式不支持",
+
+  "autoPageStartTip" : "开始",
+  "autoPagePauseTip" : "暂停",
+  "autoPageContinueTip" : "继续",
+  "autoPageStopSaveTip" : "停止录制并保存",
+  "autoPageStopTip" : "停止录制",
+  "autoPageReplayTip" : "回放",
+  "autoPageDisableKeyboardTip" : "录制中禁止键盘弹出",
+  "autoPageAddCheckpointTip" : "添加检查点",
+  "autoPageAddDelayTip" : "添加延迟 (右键单击可以选择延迟)",
+  "autoPageDependenciesTip" : "依赖会预先执行",
+  "autoPageCheckpointsTip" : "检查点是一些需要匹配的图片（您需要圈出图片上的关键位置）",
+  "autoPageSelectApp" : "选择应用",
+  "autoPageConfigApp" : "配置应用",
+  "autoPageDelayToastTitle" : "延迟: {arg}",
+  "autoPageDependenciesOrderHint" : "你可以通过拖动来调整依赖的执行顺序",
+  "autoPageDependenciesHint" : "通过拖放Auto文件来添加依赖",
+  "autoPageDependenciesTitle" : "依赖",
+  "autoPageCheckpointsTitle" : "检查点",
+  "autoPageMatchTestPassed" : "匹配测试通过!",
+  "autoPageMatchTestFailed" : "匹配测试失败!",
+  "autoPageOpenRemoteInput" : "打开远程输入",
+  "autoPageRemoteInputHint" : "回车发送",
+
+  "reportPageTab": "测试报告",
+  "reportPageSuccessTitle": "成功",
+  "reportPageFailureTitle": "失败",
+  "reportPageLogTitle": "日志",
+  "reportPageCheckpointTitle": "检查点",
+  "reportPageErrorReason": "原因: {arg}",
+  "reportPageOriginalAppTitle": "录制App的信息:",
+  "reportPageTestAppTitle": "回放App的信息:"
+
+}

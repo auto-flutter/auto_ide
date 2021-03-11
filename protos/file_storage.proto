@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message FileStorageBucket {
+    map<string, bytes> bucket = 1;
+}
