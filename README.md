@@ -27,3 +27,4 @@ $ which auto_util
 
 ## Related Project
 - [Auto](https://github.com/auto-flutter/auto)
+- [Auto Cli](https://github.com/auto-flutter/auto_cli)
