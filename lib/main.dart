@@ -4,11 +4,11 @@ import 'dart:io';
 import 'package:auto_ide/src/common/common.dart';
 import 'package:auto_ide/src/provider/provider.dart';
 import 'package:auto_ide/src/welcome_page.dart';
+import 'package:bitsdojo_window/bitsdojo_window.dart';
 import 'package:bot_toast/bot_toast.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:provider/provider.dart';
-import 'package:window_size/window_size.dart';
 
 import 'generated/l10n.dart';
 import 'src/provider/style.dart';
@@ -36,7 +36,7 @@ void main() async {
   final storage = FileStorage(finalPath);
   await storage.load();
 
-  setWindowMinSize(Size(1080, 500));
+  appWindow.minSize=Size(1080, 500);
 
   // ignore: close_sinks
   final streamController = StreamController<String>.broadcast();
