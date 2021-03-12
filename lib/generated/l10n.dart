@@ -615,20 +615,20 @@ class S {
     );
   }
 
-  /// `Add delay (Right-click to select delay)`
+  /// `Add delay (Right-click to select delay),this delay will take effect during playback`
   String get autoPageAddDelayTip {
     return Intl.message(
-      'Add delay (Right-click to select delay)',
+      'Add delay (Right-click to select delay),this delay will take effect during playback',
       name: 'autoPageAddDelayTip',
       desc: '',
       args: [],
     );
   }
 
-  /// `Dependencies will be automatically pre-executed`
+  /// `Dependencies will be automatically pre-executed (It is recommended to split the test case into multiple jump dependencies and an Auto file containing the main test logic)`
   String get autoPageDependenciesTip {
     return Intl.message(
-      'Dependencies will be automatically pre-executed',
+      'Dependencies will be automatically pre-executed (It is recommended to split the test case into multiple jump dependencies and an Auto file containing the main test logic)',
       name: 'autoPageDependenciesTip',
       desc: '',
       args: [],
