@@ -154,8 +154,6 @@ class AutoPlayer extends ChangeNotifier {
         }
         if (!await CommandUtil.checkCommandIsExist(autoUtilPath)) {
           _log.warning('PATH: ${Platform.environment['PATH']}');
-          //todo auto_util path config
-          //todo Prompt to install auto_util or using `open Auto.app command`
           throw Exception('Command $autoUtilPath not found!');
         }
 
