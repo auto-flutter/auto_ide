@@ -14,13 +14,14 @@ An Ide capable of recording and playing back `Auto` files
 See [Auto Util](https://github.com/auto-flutter/auto_util)
 
 #### MacOs Warning!
-You may need to configure the execution path of `auto_util`
+1. You may need to configure the execution path of `auto_util`
 ```
 $ which auto_util
 /usr/local/bin/auto_util
 ```
 - Goto **Settings** -> **Custom `auto_util` Path**
 
+2. If macos>1.15, please make sure the option of `anywhere` is turned on
 
 ## Usage
 [Demo Video](https://user-images.githubusercontent.com/28224568/110477128-c12e3e00-811d-11eb-9749-e35f359531f3.mp4)
